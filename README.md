@@ -1,2 +1,5 @@
-# PRIM-S_DAA
-Prim's Algorithm web based project.
+# PRIM'S ALGORITHM WEB BASED PROJECT
+
+Demo on : http://daalab-com.sites.stackstaging.com
+
+
