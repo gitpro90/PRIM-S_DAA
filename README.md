@@ -2,5 +2,5 @@
 
 Demo on : http://daalab-com.sites.stackstaging.com
 
-Thanks - Sushant Mehta(CCE 2016-20)
+Thanks to - Sushant Mehta(CCE 2016-20)
 
